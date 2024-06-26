@@ -1,31 +1,37 @@
 .tabWrapper {
-  width: 650px;
-  background-color: #1a1a1a;
-  border-radius: 10px;
+  width: 100%;
+  background-color: #363635;
+  /* border-radius: 10px; */
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  padding: 5px;
+  padding: 0.3125rem;
+  height: 100vh;
 }
 
 .tabHeader {
   display: flex;
-  gap: 10px;
-  padding: 10px;
+  gap: 0.625rem;
+  padding: 0.625rem;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 .tabItem {
   position: relative;
 
-  a {
+  p {
     padding: 5px 10px;
     display: block;
-    color: #fff;
+    color: #b7ffab;
+    margin-bottom: 0;
+    font-size: 22px;
+    font-weight: 700;
   }
 
   &.selected {
-    a {
-      color: #535bf2;
+    p {
+      color: #80ecff;
     }
   }
 }
@@ -36,14 +42,14 @@
   left: 0;
   right: 0;
   height: 2px;
-  background-color: #535bf2;
+  background-color: #80ecff;
 }
 
 .tabContent {
   flex: 1;
   padding: 10px;
-  color: #fff;
+  color: #fffec1;
   height: 100%;
-  background-color: #212121;
+  background-color: #363635;
   overflow: auto;
 }

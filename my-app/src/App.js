@@ -1,29 +1,39 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion'
-
+import InvestigationSection from './views/InvestigationSection';
+import JoinSection from './views/JoinSection';
+import ToolsSection from './views/ToolsSection';
+import AboutUsSection from './views/AboutUsSection';
 import './App.css'
 
 const tabs = [
   {
-    name: 'tab1',
-    label: 'Tab 1',
+    name: 'Sobre nosotros',
+    label: 'Sobre nosotros',
     render: () => {
-      return <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt eveniet asperiores beatae cumque quae repudiandae sequi expedita eum architecto hic. Quidem dolores quaerat nemo pariatur modi aspernatur eum blanditiis repellat?</p>
+      return <AboutUsSection />
     }
   },
   {
-    name: 'tab2',
-    label: 'Tab 2',
+    name: 'Investigación',
+    label: 'Investigación',
     render: () => {
-      return <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita in non earum natus explicabo est aspernatur porro molestias fugiat eaque dignissimos, accusantium qui fugit praesentium ad cumque dolore temporibus excepturi.</p>
+      return <InvestigationSection />
     }
   },
   {
-    name: 'tab3',
-    label: 'Tab 3',
+    name: 'Herramientas',
+    label: 'Herramientas',
     render: () => {
-      return <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis eos sequi ducimus voluptas, accusamus amet? Ducimus, velit doloremque atque est quidem ullam nisi quod. Aut quisquam ipsa exercitationem mollitia ratione?</p>
+      return <ToolsSection />
+    }
+  },
+  {
+    name: '¡Colabora!',
+    label: '¡Colabora!',
+    render: () => {
+      return <JoinSection />
     }
   }
 ];
@@ -44,7 +54,6 @@ const tabContentVariants = {
 }
 
 function App() {
-
   const [activeTab, setActiveTab] = useState(tabs[0])
 
   const handleClick = (e, tab) => {
@@ -63,9 +72,9 @@ function App() {
             key={tab.name}
             className={['tabItem', isSelected(tab) ? 'selected' : ''].join(' ')}
           >
-            <a href='#' onClick={(e) => handleClick(e, tab)} >
+            <p href='#' onClick={(e) => handleClick(e, tab)} >
               {tab.label}
-            </a>
+            </p>
 
             {isSelected(tab) && <motion.div layoutId='indicator' className={'indicator'} />}
           </div>
