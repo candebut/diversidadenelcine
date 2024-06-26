@@ -1,8 +1,8 @@
 const AboutUsSection = () => {
     return <div>
-        <h4>        “Cine Diverso” nace de la convicción de que la representación LGBTIQA+ en la ficción es crucial para la construcción de una sociedad más inclusiva y empática. Además, la forma en la que nos vemos representados en las pantallas moldea nuestra percepción del mundo y de nosotros mismos por lo que tener modelos diversos y bien construidos es fundamental para la construcción de la identidad y para el desmantelamiento de prejuicios y estereotipos.</h4>
-        <h4>        Nuestros objetivos son:
-        </h4>
+        <h4>“Cine Diverso” nace de la convicción de que la representación LGBTIQA+ en la ficción es crucial para la construcción de una sociedad más inclusiva y empática. La forma en la que nos vemos representados en las pantallas moldea nuestra percepción del mundo y de nosotros mismos por lo que tener modelos diversos y bien construidos es fundamental para la construcción de la identidad y para el desmantelamiento de prejuicios y estereotipos.</h4>
+
+        <h3>Objetivos</h3>
         <ul>
             <li>Ayudar a aumentar la representación LGBTIQA+, asegurando que estas representaciones sean variadas y auténticas.</li>
 
@@ -11,10 +11,9 @@ const AboutUsSection = () => {
             <li>Concienciar sobre estereotipos y prejuicios, identificando los más comunes en las representaciones LGBTIQA+ y ofreciendo estrategias para evitarlos.</li>
         </ul>
 
-        <h4>¿Cómo lo haremos?</h4>
+        <h3>¿Cómo lo haremos?</h3>
 
         <ul>
-
             <li>Investigación y análisis: Realizar estudios y análisis sobre las representaciones LGBTIQA+ en la ficción argentina, identificando patrones, carencias y ejemplos positivos.</li>
 
             <li>Desarrollo de recursos educativos: Crear guías, talleres y seminarios para creadores de contenido, enfocándonos en la construcción de personajes LGBTIQA+ y en la narrativa inclusiva.</li>

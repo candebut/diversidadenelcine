@@ -1,3 +1,44 @@
+@font-face {
+  font-family: 'Chinook';
+  src: local('Chinook'),
+    url('./assets/fonts/Chinook-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Chinook Italic';
+  src: local('Chinook Italic'),
+    url('./assets/fonts/Chinook-CustomItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Gemos';
+  src: local('Gemos'), url('./assets/fonts/gGemos.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Schools out';
+  src: local('Schools out'),
+    url("./assets/fonts/HalfTerm\,School'sOut-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Coolvetica';
+  src: local('Coolvetica'),
+    url('./assets/fonts/coolvetica\ rg.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Butler';
+  src: local('Butler'),
+    url('./assets/fonts/Butler_Regular_Stencil.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Butler bold';
+  src: local('Butler bold'),
+    url('./assets/fonts/Butler_Bold_Stencil.otf') format('opentype');
+}
+
 .tabWrapper {
   width: 100%;
   background-color: #363635;
@@ -7,6 +48,7 @@
   flex-direction: column;
   padding: 0.3125rem;
   height: 100vh;
+  font-family: 'Chinook';
 }
 
 .tabHeader {
@@ -52,4 +94,45 @@
   height: 100%;
   background-color: #363635;
   overflow: auto;
+  font-family: Coolvetica;
+  font-size: 18px;
+
+  h3 {
+    color: #ffc1c1;
+    font-family: 'Chinook';
+  }
+
+  h4 {
+    font-family: Chinook Italic;
+  }
+
+  li {
+    color: white;
+  }
+}
+
+.popup-button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  background-color: #e58e98;
+  padding: 1rem 2rem;
+  border-radius: 5px;
+  transition: 0.3s;
+  margin-top: 3rem;
+}
+
+.popup-button:hover {
+  background-color: #e36271;
+}
+
+.join-us {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }

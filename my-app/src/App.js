@@ -15,20 +15,20 @@ const tabs = [
       return <AboutUsSection />
     }
   },
-  {
-    name: 'Investigación',
-    label: 'Investigación',
-    render: () => {
-      return <InvestigationSection />
-    }
-  },
-  {
-    name: 'Herramientas',
-    label: 'Herramientas',
-    render: () => {
-      return <ToolsSection />
-    }
-  },
+  // {
+  //   name: 'Investigación',
+  //   label: 'Investigación',
+  //   render: () => {
+  //     return <InvestigationSection />
+  //   }
+  // },
+  // {
+  //   name: 'Herramientas',
+  //   label: 'Herramientas',
+  //   render: () => {
+  //     return <ToolsSection />
+  //   }
+  // },
   {
     name: '¡Colabora!',
     label: '¡Colabora!',
