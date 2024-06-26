@@ -14,11 +14,11 @@ const AboutUsSection = () => {
         <h3>¿Cómo lo haremos?</h3>
 
         <ul>
-            <li>Investigación y análisis: Realizar estudios y análisis sobre las representaciones LGBTIQA+ en la ficción argentina, identificando patrones, carencias y ejemplos positivos.</li>
+            <li><u>Investigación y análisis</u>: Realizar estudios y análisis sobre las representaciones LGBTIQA+ en la ficción argentina, identificando patrones, carencias y ejemplos positivos.</li>
 
-            <li>Desarrollo de recursos educativos: Crear guías, talleres y seminarios para creadores de contenido, enfocándonos en la construcción de personajes LGBTIQA+ y en la narrativa inclusiva.</li>
+            <li><u>Desarrollo de recursos educativos</u>: Crear guías, talleres y seminarios para creadores de contenido, enfocándonos en la construcción de personajes LGBTIQA+ y en la narrativa inclusiva.</li>
 
-            <li>Colaboraciones y redes: Establecer colaboraciones con organizaciones, expertos en diversidad y profesionales de la industria del entretenimiento para fomentar la adopción de buenas prácticas en la representación.</li>
+            <li><u>Colaboración y redes</u>: Establecer colaboraciones con organizaciones, expertos en diversidad y profesionales de la industria del entretenimiento para fomentar la adopción de buenas prácticas en la representación.</li>
 
             <li>Desarrollar una plataforma en línea donde se compartan artículos, estudios de caso, entrevistas y recursos educativos, accesible para cualquier interesado en mejorar la representación LGBTIQA+.</li>
         </ul>

@@ -104,10 +104,17 @@
 
   h4 {
     font-family: Chinook Italic;
+    text-align: center;
   }
 
   li {
     color: white;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
   }
 }
 
