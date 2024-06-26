@@ -1,9 +1,6 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion'
-import InvestigationSection from './views/InvestigationSection';
 import JoinSection from './views/JoinSection';
-import ToolsSection from './views/ToolsSection';
 import AboutUsSection from './views/AboutUsSection';
 import './App.css'
 
