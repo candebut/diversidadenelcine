@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion'
 import JoinSection from './views/JoinSection';
 import AboutUsSection from './views/AboutUsSection';
+import InvestigationSection from './views/InvestigationSection';
 import Posts from './views/Posts'
 import Footer from './components/Footer';
 import './App.css'
@@ -14,13 +15,13 @@ const tabs = [
       return <AboutUsSection />
     }
   },
-  // {
-  //   name: 'Investigación',
-  //   label: 'Investigación',
-  //   render: () => {
-  //     return <InvestigationSection />
-  //   }
-  // },
+  {
+    name: 'Investigación',
+    label: 'Investigación',
+    render: () => {
+      return <InvestigationSection />
+    }
+  },
   {
     name: 'Herramientas',
     label: 'Herramientas',
