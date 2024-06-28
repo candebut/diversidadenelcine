@@ -2,6 +2,8 @@ import { useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion'
 import JoinSection from './views/JoinSection';
 import AboutUsSection from './views/AboutUsSection';
+import Posts from './views/Posts'
+import Footer from './components/Footer';
 import './App.css'
 
 const tabs = [
@@ -19,13 +21,13 @@ const tabs = [
   //     return <InvestigationSection />
   //   }
   // },
-  // {
-  //   name: 'Herramientas',
-  //   label: 'Herramientas',
-  //   render: () => {
-  //     return <ToolsSection />
-  //   }
-  // },
+  {
+    name: 'Herramientas',
+    label: 'Herramientas',
+    render: () => {
+      return <Posts />
+    }
+  },
   {
     name: '¡Colabora!',
     label: '¡Colabora!',
@@ -94,7 +96,7 @@ function App() {
           </motion.div>
         </AnimatePresence>
       </div>
-
+      <Footer></Footer>
     </div>
   )
 }

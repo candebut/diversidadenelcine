@@ -92,11 +92,12 @@
   padding: 10px;
   color: #fffec1;
   height: 100%;
-  background-color: #141414;
+  background-color: #232323;
   overflow: auto;
   font-family: Coolvetica;
   font-size: 18px;
   width: 100%;
+  padding-bottom: 3rem;
 
   h3 {
     color: #ffc1c1;
@@ -143,4 +144,71 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.carousel {
+  position: relative;
+  max-width: 32%;
+  overflow: hidden;
+}
+.carousel__btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-size: 1.5rem;
+  border: none;
+  padding: 1rem;
+  cursor: pointer;
+  z-index: 1;
+  transition: background-color 0.3s;
+}
+.carousel__btn:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.carousel__btn--prev {
+  left: 0;
+}
+.carousel__btn--next {
+  right: 0;
+}
+.carousel__img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  cursor: pointer;
+}
+.carousel__img:hover {
+  transform: scale(1.05);
+}
+
+.carousel-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+footer {
+  width: 100%;
+  position: fixed;
+  bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  color: white;
+  cursor: pointer;
+  div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    img {
+      width: 50px;
+      margin: 0;
+    }
+  }
 }
