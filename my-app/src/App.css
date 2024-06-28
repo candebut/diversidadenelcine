@@ -41,7 +41,7 @@
 
 .tabWrapper {
   width: 100%;
-  background-color: #363635;
+  background-color: #000000;
   /* border-radius: 10px; */
   overflow: hidden;
   display: flex;
@@ -92,10 +92,11 @@
   padding: 10px;
   color: #fffec1;
   height: 100%;
-  background-color: #232323;
+  background-color: #141414;
   overflow: auto;
   font-family: Coolvetica;
   font-size: 18px;
+  width: 100%;
 
   h3 {
     color: #ffc1c1;
