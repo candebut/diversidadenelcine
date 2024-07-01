@@ -215,14 +215,27 @@ footer {
     }
   }
 }
+.director-gender {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.pieChart-main-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2rem;
+}
 
 .pieChart-container {
-  width: 100%;
+  width: 80%;
   display: flex;
   flex-direction: center;
   align-items: center;
   justify-content: center;
 }
 .chart-container {
-  width: 490px !important;
+  width: 450px !important;
 }

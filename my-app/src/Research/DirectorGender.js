@@ -18,10 +18,13 @@ const DirectorGender = () => {
     }
 
     return (
-        <div>
+        <div className='director-gender'>
             <h1>Películas Argentinas estrenadas en 2023</h1>
-            <div className='pieChart-container'>
-                <PieChart data={Object.values(countByGender())} />
+            <div className='pieChart-main-container'>
+                <div className='pieChart-container'>
+                    <PieChart data={Object.values(countByGender())} />
+                </div>
+                De las 143 películas que registramos y analizamos, el 74,8% fueron dirigidas por hombres, el 24,4% tuvo una directora mujer y apenas el 0,6% fue dirigida por una persona no binaria.
             </div>
         </div>
     )

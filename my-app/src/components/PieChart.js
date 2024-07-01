@@ -6,10 +6,10 @@ const PieChart = ({ data }) => {
         labels: ['Mujeres', 'Hombres', 'No binario'],
         datasets: [
             {
-                label: 'Directores por género',
+                label: `Directores por género`,
                 data: data,
-                backgroundColor: ['#BEB7DF', '#FF6384', '#36A2EB',],
-                hoverBackgroundColor: ['#9992BA', '#FF6384', '#36A2EB'],
+                backgroundColor: ['#E3D081', '#91C7B1', '#B33951',],
+                hoverBackgroundColor: ['#D3BE6A', '#79BDA2', '#A03A4E'],
             },
         ],
     };
