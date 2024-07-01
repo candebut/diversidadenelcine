@@ -1,0 +1,924 @@
+{
+  "titles2023": [
+    {
+      "title": "Las fiestas",
+      "director": "Ignacio Roger",
+      "gender": "Comedia dramática",
+      "streaming": "Star+",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Mamá, mamá, mamá",
+      "director": "Sol Berruezo Pichon-Riviére",
+      "gender": "Drama",
+      "streaming": "Filmin",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "El vacío es el recipiente de los gordos",
+      "director": "Ernesto Aguilar",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El método tangalanga",
+      "director": "Mateo Bendesky",
+      "gender": "Comedia",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Album para la juventud",
+      "director": "Malena Solarz",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El gran Saturán",
+      "director": "Gabriel Cid",
+      "gender": "Aventuras",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Moisés",
+      "director": "Ernesto Aguilar",
+      "gender": "Comedia",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Ustedes deciden",
+      "director": "Esteban Rey Cazes",
+      "gender": "Comedia",
+      "streaming": "Star+",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El Nido",
+      "director": "Mattia Temponi",
+      "gender": "Terror",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Al morir la matineé",
+      "director": "Maximiliano Contenti",
+      "gender": "Terror",
+      "streaming": "Amazon Prime Video",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El Ucumar",
+      "director": "Octavio Revol Molina",
+      "gender": "Terror",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Las Furias",
+      "director": "Tamae Garateguy",
+      "gender": "Thriller",
+      "streaming": "-",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Las Preñadas",
+      "director": "Pedro Wallace",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Zoo - El derecho animal",
+      "director": "Ernesto Gut",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Trenque Lauquen",
+      "director": "Laura Citarella",
+      "gender": "Suspenso",
+      "streaming": "Filmin",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Papá al rescate",
+      "director": "Marcos Carnevale",
+      "gender": "Comedia",
+      "streaming": "Netflix",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La Reina Desnuda",
+      "director": "José Celestino Campusano",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Arturo a los 30",
+      "director": "Martin Shanly",
+      "gender": "Comedia",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Almamula",
+      "director": "Juan Sebastian Torales",
+      "gender": "Drama fantástico",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Adentro mío estoy bailando",
+      "director": "Leandro Koch, paloma Schachmann",
+      "gender": "Falso documental",
+      "streaming": "-",
+      "director_gender": ["Hombre cis", "Mujer cis"]
+    },
+    {
+      "title": "La residencia",
+      "director": "Fernando Fraiha",
+      "gender": "Thriller",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Carbón",
+      "director": "Carolina Markowicz",
+      "gender": "Thriller",
+      "streaming": "-",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Legítima defensa",
+      "director": "Andrea Braga",
+      "gender": "Thriller",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El asistente",
+      "director": "Augusto Tejada",
+      "gender": "Comedia",
+      "streaming": "Star+",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Los inventados",
+      "director": "Leo Basilico, Nicolás Longinotti, Pablo Rodríguez Pandolfi",
+      "gender": "Comedia",
+      "streaming": "Filmin",
+      "director_gender": ["Hombre cis", "Hombre cis", "Hombre cis"]
+    },
+    {
+      "title": "La Piedad",
+      "director": "Eduardo Casanova",
+      "gender": "Drama",
+      "streaming": "Netflix",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El último hereje",
+      "director": "Daniel de la Vega",
+      "gender": "Terror",
+      "streaming": "Pirata: https:\/\/www.tokyvideo.com\/es\/video\/title-el-ultimo-hereje-online-en-hd-en-espanol-latino",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Sobre las nubes",
+      "director": "María Aparicio",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "El rostro de la medusa",
+      "director": "Melisa Liebenthal",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Hija",
+      "director": "Martín Desalvo",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": 1976,
+      "director": "Manuela Martelli",
+      "gender": "Drama",
+      "streaming": "Filmin",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Rinoceronte",
+      "director": "Arturo Castro Godoy",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Cuando ya no esté",
+      "director": "Martín Viaggio",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Asfixiados",
+      "director": "Luciano Podcaminsky",
+      "gender": "Comedia dramática",
+      "streaming": "Star+",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "0+",
+      "director": "Bruno Musso",
+      "gender": "Romance",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Un bosque en silencio",
+      "director": "Alex Tossenberger",
+      "gender": "Drama romántico",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Los bastardos",
+      "director": "Pablo Yotich",
+      "gender": "Thriller",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La escencia de los otros",
+      "director": "Ernesto Aguilar",
+      "gender": "Comedia",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Buenos Aires BZ",
+      "director": "Nicolás Fabiani",
+      "gender": "Terror",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La extorsión",
+      "director": "Martino Zaidelis",
+      "gender": "Thriller",
+      "streaming": "HBO Max",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Tres hermanos",
+      "director": "Francisco Joaquín Paparella",
+      "gender": "Drama",
+      "streaming": "Amazon Prime Video?",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Reparo",
+      "director": "Lucía Van Gelderen",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "El Santo",
+      "director": "Juan Agustín Carbonere",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La Sudestada",
+      "director": "Daniel Casabé, Edgardo Dieleke",
+      "gender": "Drama policial",
+      "streaming": "Filmin",
+      "director_gender": ["Hombre cis", "Hombre cis"]
+    },
+    {
+      "title": "Blondi",
+      "director": "Dolores Fonzi",
+      "gender": "Comedia dramática",
+      "streaming": "Amazon Prime Video",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Clorindo Testa",
+      "director": "Mariano Llinás",
+      "gender": "Comedia dramática",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Conversaciones sobre el odio",
+      "director": "Vera Fogwill, Diego Martínez",
+      "gender": "Thriller psicológico",
+      "streaming": "-",
+      "director_gender": ["Mujer cis", "Hombre cis"]
+    },
+    {
+      "title": "El clan Vega",
+      "director": "José Celestino Campusano",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El hincha",
+      "director": "Renzo Cozza",
+      "gender": "Comedia dramática",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El siervo inútil",
+      "director": "Fernando Lacolla",
+      "gender": "Thriller",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Los terrenos",
+      "director": "Verónica Chen",
+      "gender": "Thriller",
+      "streaming": "-",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Terminal young",
+      "director": "Lucía Seles",
+      "gender": "Comedia dramática",
+      "streaming": "Pirata: https:\/\/ww4.series24.org\/movies\/terminal-young\/",
+      "director_gender": ["No binario"]
+    },
+    {
+      "title": "Empieza el baile",
+      "director": "Marina Seresesky",
+      "gender": "Comedia",
+      "streaming": "Filmin",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Humo bajo el agua",
+      "director": "Fabio Junco y Julio Midú",
+      "gender": "Drama romántico",
+      "streaming": "-",
+      "director_gender": ["Hombre cis", "Hombre cis"]
+    },
+    {
+      "title": "Cuentos de la tierra",
+      "director": "Pablo Leónidas Nisenson",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Los olvidados, cicatrices",
+      "director": "Nicolás Onetti",
+      "gender": "Terror",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Control zeta",
+      "director": "Axel Gaibisso",
+      "gender": "Ciencia ficción",
+      "streaming": "Amazon Prime Video?",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Desperté con un sueño",
+      "director": "Pablo Solarz",
+      "gender": "Drama",
+      "streaming": "Pirata: https:\/\/cuevana.biz\/title\/1040587\/desperte-con-un-sueno",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La barbarie",
+      "director": "Andrew Sala",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Bill 79",
+      "director": "Mariano Galperín",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Los delincuentes",
+      "director": "Rodrigo Moreno",
+      "gender": "Comedia dramática",
+      "streaming": "Filmin",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Eureka",
+      "director": "Lisandro Alonso",
+      "gender": "Drama de época",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Cerrar los ojos",
+      "director": "Victor Erice",
+      "gender": "Drama",
+      "streaming": "Amazon Prime Video",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Los Colonos",
+      "director": "Felipe Gálvez",
+      "gender": "Western",
+      "streaming": "Amazon Prime Video?",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Objetos",
+      "director": "Jorge Dorado",
+      "gender": "Thriller",
+      "streaming": "Amazon Prime Video",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Dúo",
+      "director": "Meritxell Colell Aparicio",
+      "gender": "Drama",
+      "streaming": "Filmin",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Mariquita, mujer revolución",
+      "director": "Sabrina Farji",
+      "gender": "Drama biográfico",
+      "streaming": "-",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "El último otoño",
+      "director": "Andrés Pasman",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Último recurso",
+      "director": "Matías Szulanski",
+      "gender": "Comedia",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Los agitadores",
+      "director": "Marco Berger",
+      "gender": "Drama",
+      "streaming": "Pirata: http:\/\/www.cinetecagay.com\/2022\/11\/los-agitadores-horseplay-2022-titles.html  https:\/\/lacajalgbt.site\/movie\/los-agitadores\/",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La bruja de Hitler",
+      "director": "Ernesto Ardito y Virna Molina",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis", "Mujer cis"]
+    },
+    {
+      "title": "La larga vida de los recuerdos",
+      "director": "Mariana Russo y Alberto Masliah",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Mujer cis", "Hombre cis"]
+    },
+    {
+      "title": "Juego de brujas",
+      "director": "Fabían Forte",
+      "gender": "Terror",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Destino pasional",
+      "director": "Juan Romero",
+      "gender": "Romance",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Casi muerta",
+      "director": "Fernán Mirás",
+      "gender": "Comedia",
+      "streaming": "Amazon Prime Video?",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Me encontrarás en lo profundo del abismo",
+      "director": "Matias Xavier Rispau",
+      "gender": "Ciencia ficción",
+      "streaming": "Amazon Prime Video",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Nuestros dias más felices",
+      "director": "Sol Berruezo Pichon-Riviére",
+      "gender": "Drama",
+      "streaming": "Filmin",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "La crecida",
+      "director": "Ezequiel Erriquez",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Retrato de un amanecer",
+      "director": "Alejandra Gargiulo, Pablo Girola y Agustín Kazah",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Mujer cis", "Hombre cis", "Hombre cis"]
+    },
+    {
+      "title": "Lo que el cuerpo debe",
+      "director": "Ernesto Aguilar",
+      "gender": "Comedia",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La mujer de vidrio",
+      "director": "Javier Canale",
+      "gender": "Suspenso",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Alma",
+      "director": "Juan Pablo Martínez",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El auge del humano 3",
+      "director": "Eduardo Williams",
+      "gender": "Drama experimental",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Fragmentada",
+      "director": "Facundo Escudero Salinas",
+      "gender": "Drama policial",
+      "streaming": "Pirata: https:\/\/cuevana.biz\/title\/890338\/fragmentada",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Soltera codiciada 2",
+      "director": "Joanna Lombardi",
+      "gender": "Comedia",
+      "streaming": "Netflix",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Doble discurso",
+      "director": "Hernán Guerschuny",
+      "gender": "Comedia romántica",
+      "streaming": "Amazon Prime Video",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Amigas en un camino de campo",
+      "director": "Santiago Loza",
+      "gender": "Drama",
+      "streaming": "Filmin",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Finde",
+      "director": "Nano Garay Santaló",
+      "gender": "Comedia de terror",
+      "streaming": "Pirata - https:\/\/www.dailymotion.com\/video\/x83yvnf",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La uruguaya",
+      "director": "Ana García Blaya",
+      "gender": "Comedia romántica",
+      "streaming": "Star+",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Julio, felices por siempre",
+      "director": "Juan Manuel Solé",
+      "gender": "Comedia romántica",
+      "streaming": "Amazon Prime Video?",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Almamula",
+      "director": "Juan Sebastian Torales",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Milonga",
+      "director": "Laura González",
+      "gender": "Drama",
+      "streaming": "-",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Demonio eclipse rojo",
+      "director": "Samot Márquez",
+      "gender": "Terror",
+      "streaming": "-",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Ariel",
+      "director": "Alison Murray",
+      "gender": "Drama",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "El rapto",
+      "director": "Daniela Goggi",
+      "gender": "Drama",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "El canto de Auricanturi",
+      "director": "Camila Rodríguez Triana",
+      "gender": "Drama",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Oliva ",
+      "director": "Luciano Leyrado",
+      "gender": "Comedia",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El fantasma",
+      "director": "Martín Duplaquet",
+      "gender": "Policial",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Todos mis amores",
+      "director": "Jorge Filippis",
+      "gender": "Comedia romántica",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El viento que arrasa",
+      "director": "Paula Hernández",
+      "gender": "Drama",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Cuando acecha la maldad",
+      "director": "Demián Rugna",
+      "gender": "Terror",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Temas propios ",
+      "director": "Guillermo Rocamora",
+      "gender": "Comedia",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El vasco",
+      "director": "Jabi Elortegi",
+      "gender": "Comedia dramática",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Caminemos Valentina",
+      "director": "Alberto Lecchi, Marcelo Brigante",
+      "gender": "Drama",
+      "director_gender": ["Hombre cis", "Hombre cis"]
+    },
+    {
+      "title": "No me rompan",
+      "director": "Azul Lombardía",
+      "gender": "Comedia",
+      "streaming": "Netflix",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Hace mucho que no duermo",
+      "director": "Agustín Godoy",
+      "gender": "Comedia",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La práctica",
+      "director": "Martín Rejtman",
+      "gender": "Comedia dramática",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Puan",
+      "director": "María Alché, Benjamín Naishtat",
+      "gender": "Comedia dramática",
+      "streaming": "Pirata",
+      "director_gender": ["Mujer cis", "Hombre cis"]
+    },
+    {
+      "title": "El otro hijo",
+      "director": "Juan Sebastián Quebrada",
+      "gender": "Drama",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Alemania",
+      "director": "María Zanetti",
+      "gender": "Drama familiar",
+      "streaming": "Filmin",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Clara se pierde en el bosque",
+      "director": "Camila Fabbri",
+      "gender": "Drama",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Los impactados",
+      "director": "Lucía Puenzo",
+      "gender": "Drama",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Unicornio",
+      "director": "Natural Arpajou",
+      "gender": "Drama",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Lennons",
+      "director": "José María Cicala",
+      "gender": "Comedia",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Ave María",
+      "director": "Diego Recalde",
+      "gender": "Comedia",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Una flor en el barro",
+      "director": "Nicolás Touzzo",
+      "gender": "Drama",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "El duelo",
+      "director": "Augusto Tejada",
+      "gender": "Comedia",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Radio oriente",
+      "director": "Álvaro Urtizberea",
+      "gender": "Comedia",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La calma",
+      "director": "Mariano Cócolo",
+      "gender": "Drama",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Auxilio",
+      "director": "Tamae Garateguy",
+      "gender": "Terror",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Norma",
+      "director": "Santiago Giralt",
+      "gender": "Comedia",
+      "streaming": "Netflix",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Desde la última vez que nos vimos",
+      "director": "Matías de Leis Correa",
+      "gender": "Romance",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Recuerdos del mal",
+      "director": "Gabriel Musco",
+      "gender": "Terror",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Reina Animal",
+      "director": "Moroco Colman",
+      "gender": "Suspenso",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La resistencia de la especie",
+      "director": "Walter Tejblum",
+      "gender": "Drama",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Elena sabe",
+      "director": "Anahí Berneri",
+      "gender": "Drama",
+      "streaming": "Netflix",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Leni",
+      "director": "Federico Gianotti",
+      "gender": "Terror",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Cambio cambio",
+      "director": "Lautaro García Candela",
+      "gender": "Comedia dramática",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Un pájaro azul",
+      "director": "Ariel Rotter",
+      "gender": "Drama",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Partida",
+      "director": "Diego Suárez",
+      "gender": "Drama",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Los milagros existen",
+      "director": "Andrés Llugany",
+      "gender": "Comedia dramática",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Ven a mi casa esta navidad",
+      "director": "Sabrina Campos",
+      "gender": "Comedia dramática",
+      "director_gender": ["Mujer cis"]
+    },
+    {
+      "title": "Chau Buenos Aires",
+      "director": "Germán Kral",
+      "gender": "Comedia",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "Dos manzanas",
+      "director": "Eduardo Raspo",
+      "gender": "Suspenso",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La burbuja",
+      "director": "Miguel Ángel Rocca",
+      "gender": "Suspenso",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "La invitada",
+      "director": "Facundo Escudero Salinas",
+      "gender": "Terror",
+      "director_gender": ["Hombre cis"]
+    },
+    {
+      "title": "No va más",
+      "director": "Alex Tossenberger",
+      "gender": "Drama",
+      "director_gender": ["Hombre cis"]
+    }
+  ]
+}

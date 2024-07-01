@@ -6,6 +6,7 @@ import InvestigationSection from './views/InvestigationSection';
 import Posts from './views/Posts'
 import Footer from './components/Footer';
 import './App.css'
+import DirectorGender from './Research/DirectorGender';
 
 const tabs = [
   {
@@ -19,7 +20,7 @@ const tabs = [
     name: 'Investigación',
     label: 'Investigación',
     render: () => {
-      return <InvestigationSection />
+      return <DirectorGender />
     }
   },
   {
