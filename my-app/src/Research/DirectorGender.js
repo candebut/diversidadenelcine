@@ -27,3 +27,9 @@ const DirectorGender = () => {
     )
 }
 export default DirectorGender;
+
+//TODO:: 
+// -- separar en cis y no cisgénero
+// -- agregar listado de películas on hover
+// -- agregar acceso a info de película
+// -- agregar texto explicativo con porcentajes
