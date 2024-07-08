@@ -74,7 +74,7 @@
 
   &.selected {
     p {
-      color: #460344;
+      color: #5b0c58;
     }
   }
 }
@@ -85,7 +85,7 @@
   left: 0;
   right: 0;
   height: 2px;
-  background-color: #460344;
+  background-color: #690c66;
 }
 
 .tabContent {
