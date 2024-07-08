@@ -15,7 +15,7 @@ const Collapsible = ({ open = false, children, title }) => {
             <div className="card">
                 <div>
                     <div className="chevron-title" onClick={handleFilterOpening}>
-                        <h2>{title}</h2>
+                        <h3>{title}</h3>
 
                         {!isOpen ? (
                             <FaChevronDown />
