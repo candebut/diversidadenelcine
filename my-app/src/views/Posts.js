@@ -1,4 +1,5 @@
 import Post from '../components/Post';
+import Topics from '../components/Topics/Topics'
 
 const posts = [
     {
@@ -39,8 +40,11 @@ const posts = [
     }
 ];
 const Posts = () => {
-    return <div className='carousel-container'>
-        {posts.map((post, index) => <Post key={index} post={post} />)}
+    return <div className='tools-main-container'>
+        <Topics />
+        <div className='carousel-container'>
+            {posts.map((post, index) => <Post key={index} post={post} />)}
+        </div>
     </div>
 };
 
