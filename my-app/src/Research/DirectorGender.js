@@ -36,27 +36,27 @@ const DirectorGender = () => {
                             title="Películas dirigidas por mujeres"
                         >
                             {
-                                getMovieListByGender('Mujer cis').map((movie, index) => <p key={'movie_female_director_' + index}>
+                                getMovieListByGender('Mujer cis').map((movie, index) => <li key={'movie_female_director_' + index}>
                                     {movie.title} - Dirigida por  {movie.director}
-                                </p>)
+                                </li>)
                             }
                         </Collapsible>
                         <Collapsible
                             title="Películas dirigidas por personas de género no binario"
                         >
                             {
-                                getMovieListByGender('No binario').map((movie, index) => <p key={'movie_nonbinary_director_' + index}>
+                                getMovieListByGender('No binario').map((movie, index) => <li key={'movie_nonbinary_director_' + index}>
                                     {movie.title} - Dirigida por  {movie.director}
-                                </p>)
+                                </li>)
                             }
                         </Collapsible>
                         <Collapsible
                             title="Películas dirigidas por hombres"
                         >
                             {
-                                getMovieListByGender('Hombre cis').map((movie, index) => <p key={'movie_male_director_' + index}>
+                                getMovieListByGender('Hombre cis').map((movie, index) => <li key={'movie_male_director_' + index}>
                                     {movie.title} - Dirigida por  {movie.director}
-                                </p>)
+                                </li>)
                             }
                         </Collapsible>
                     </div>

@@ -3,18 +3,6 @@ import { FaChevronDown } from "react-icons/fa";
 import { FaChevronUp } from "react-icons/fa";
 import { AnimatePresence, motion } from 'framer-motion'
 
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-// import {
-//     faChevronUp,
-//     faChevronDown
-// } from "@fortawesome/fontawesome-free-solid";
-const animations = {
-    initial: { scale: 0, opacity: 0 },
-    animate: { scale: 1, opacity: 1 },
-    exit: { scale: 0, opacity: 0 },
-    transition: { type: "spring", stiffness: 900, damping: 40 }
-};
-
 const Collapsible = ({ open = false, children, title }) => {
     const [isOpen, setIsOpen] = useState(open);
 
@@ -38,10 +26,15 @@ const Collapsible = ({ open = false, children, title }) => {
 
                     </div>
                 </div>
-
-                <motion.div className="border-bottom" {...animations}>
-                    <motion.div>{isOpen && <motion.div {...animations} className="p-3">{children}</motion.div>}</motion.div>
-                </motion.div>
+                <AnimatePresence initial={false}>
+                    <motion.div className="border-bottom">
+                        <motion.div >{isOpen && <motion.div initial={{ height: 0 }}
+                            animate={{ height: "auto" }}
+                            exit={{ height: 0 }} transition={{
+                                duration: 1
+                            }} className="p-3">{children}</motion.div>}</motion.div>
+                    </motion.div>
+                </AnimatePresence>
             </div>
         </>
     );

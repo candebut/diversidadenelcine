@@ -32,18 +32,16 @@ const getMovieDetails = async (movieId) => {
     return response.data;
 };
 
-const getPersonDetails = async (personId) => {
-    const url = `https://api.themoviedb.org/3/person/${personId}`;
-    const params = { api_key: apiKey, language: 'en-US' };
-    const response = await axios.get(url, { params });
-    return response.data;
-};
+// const getPersonDetails = async (personId) => {
+//     const url = `https://api.themoviedb.org/3/person/${personId}`;
+//     const params = { api_key: apiKey, language: 'en-US' };
+//     const response = await axios.get(url, { params });
+//     return response.data;
+// };
 
 const InvestigationSection = () => {
     const [movies, setMovies] = useState([]);
     const [loading, setLoading] = useState(true);
-    const [allTheMovies, setAllTheMovies] = useState([])
-    const [nombresHombresList, setNombresHombresList] = useState([]);
 
     const eliminarDuplicados = (array, key) => {
         const seen = new Set();
@@ -64,8 +62,6 @@ const InvestigationSection = () => {
         const fetchMovies = async () => {
             let allMovies = [];
             let allDirectors = [];
-            let firstIt = []
-            let secondIt = []
             let page = 1;
             let keepFetching = true;
 
@@ -75,10 +71,6 @@ const InvestigationSection = () => {
 
                 if (data.results.length === 0 || page > data.total_pages) {
                     keepFetching = false;
-                    // console.log('allMovies: ', allMovies);
-                    // console.log('directors: ', allDirectors)
-                    // console.log('firstIt: ', firstIt)
-                    // console.log('secondIt: ', secondIt)
                     break;
                 } else {
                     for (const movie of data.results) {

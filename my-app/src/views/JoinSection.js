@@ -1,4 +1,3 @@
-import { Widget } from '@typeform/embed-react'
 import { PopupButton } from '@typeform/embed-react'
 
 const JoinSection = () => {

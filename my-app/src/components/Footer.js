@@ -1,4 +1,3 @@
-import instagramIcon from '../instagram.svg';
 import { openUrl } from '../utils/helper';
 
 const Footer = () => {
